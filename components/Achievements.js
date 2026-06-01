@@ -43,7 +43,7 @@ function Achievements() {
                 <div className="grid md:grid-cols-2 gap-4">
                   {[
                     'CGPA 9.65 / 10.0',
-                    'Graduated 2nd in IT Department',
+                    'Ranked 2nd in IT Department',
                     'Smart India Hackathon 2023 Finalist',
                     'Google Girl Hackathon 2024 Participant',
                     'Airbus Aerothon 2024 Participant',
