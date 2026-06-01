@@ -1,0 +1,11 @@
+When project files are updated or new features are added
+- Always check if the README.md in trickle/notes needs to be updated
+- Update the README.md to reflect any changes in:
+  - Design system modifications
+  - New sections or components
+  - Technology stack updates
+  - Feature additions
+  - Performance optimizations
+  - Accessibility improvements
+- Keep the README.md accurate for future reference
+- Ensure recruiter experience goals remain clear
