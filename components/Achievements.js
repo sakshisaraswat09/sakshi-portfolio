@@ -44,7 +44,6 @@ function Achievements() {
                   {[
                     'CGPA 9.65 / 10.0',
                     'Ranked 2nd in IT Department',
-                    'Smart India Hackathon 2023 Finalist',
                     'Google Girl Hackathon 2024 Participant',
                     'Airbus Aerothon 2024 Participant',
                     'Active RTC & HerKey Member',
