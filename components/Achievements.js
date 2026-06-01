@@ -44,8 +44,7 @@ function Achievements() {
                   {[
                     'CGPA 9.65 / 10.0',
                     'Ranked 2nd in IT Department',
-                    'Google Girl Hackathon 2024 Participant',
-                    'Airbus Aerothon 2024 Participant',
+                    'Google Girl Hackathon & Airbus Aerothon Participant (2024)',
                     'Active RTC & HerKey Member',
                   ].map((text, i) => (
                     <div key={i} className="flex items-start gap-3">
